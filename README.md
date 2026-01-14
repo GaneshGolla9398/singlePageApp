@@ -1,3 +1,4 @@
 # singlePageApp
 my info
-This is my personal   information
+This is my personal information
+changed
